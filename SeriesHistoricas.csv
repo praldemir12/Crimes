@@ -1,0 +1,384 @@
+ano;area geografica;delito;contagem;populacao;taxa por 100 mil habitantes
+1991;Estado;Letalidade Violenta;7.723;12.807.706;60,3
+1992;Estado;Letalidade Violenta;7.923;12.975.915;61,1
+1993;Estado;Letalidade Violenta;7.985;13.146.333;60,7
+1994;Estado;Letalidade Violenta;8.631;13.318.990;64,8
+1995;Estado;Letalidade Violenta;8.638;13.493.914;64,0
+1996;Estado;Letalidade Violenta;7.425;13.671.135;54,3
+1997;Estado;Letalidade Violenta;7.040;13.850.684;50,8
+1998;Estado;Letalidade Violenta;6.371;14.032.591;45,4
+1999;Estado;Letalidade Violenta;6.401;14.216.887;45,0
+2000;Estado;Letalidade Violenta;6.993;14.403.603;48,6
+2001;Estado;Letalidade Violenta;7.083;14.547.985;48,7
+2002;Estado;Letalidade Violenta;8.043;14.695.180;54,7
+2003;Estado;Letalidade Violenta;8.054;14.845.299;54,3
+2004;Estado;Letalidade Violenta;7.645;14.998.471;51,0
+2005;Estado;Letalidade Violenta;7.987;15.154.831;52,7
+2006;Estado;Letalidade Violenta;7.649;15.314.527;49,9
+2007;Estado;Letalidade Violenta;7.699;15.477.710;49,7
+2008;Estado;Letalidade Violenta;7.134;15.644.548;45,6
+2009;Estado;Letalidade Violenta;7.106;15.815.217;44,9
+2010;Estado;Letalidade Violenta;5.828;15.989.929;36,4
+2011;Estado;Letalidade Violenta;4.960;16.112.678;30,8
+2012;Estado;Letalidade Violenta;4.666;16.231.365;28,7
+2013;Estado;Letalidade Violenta;5.348;16.369.178;32,7
+2014;Estado;Letalidade Violenta;5.719;16.461.173;34,7
+2015;Estado;Letalidade Violenta;5.010;16.550.024;30,3
+2016;Estado;Letalidade Violenta;6.262;16.635.996;37,6
+2017;Estado;Letalidade Violenta;6.749;16.718.956;40,4
+2018;Estado;Letalidade Violenta;6.714;17.159.960;39,1
+2019;Estado;Letalidade Violenta;5.980;17.264.943;34,6
+2020;Estado;Letalidade Violenta;4.907;17.366.189;28,3
+2021;Estado;Letalidade Violenta;4.762;17.463.349;27,3
+2022;Estado;Letalidade Violenta;4.485;17.561.373;25,5
+1991;Estado;Homicídio Doloso;7.518;12.807.706;58,7
+1992;Estado;Homicídio Doloso;7.635;12.975.915;58,8
+1993;Estado;Homicídio Doloso;7.720;13.146.333;58,7
+1994;Estado;Homicídio Doloso;8.408;13.318.990;63,1
+1995;Estado;Homicídio Doloso;8.438;13.493.914;62,5
+1996;Estado;Homicídio Doloso;7.259;13.671.135;53,1
+1997;Estado;Homicídio Doloso;6.923;13.850.684;50,0
+1998;Estado;Homicídio Doloso;5.726;14.032.591;40,8
+1999;Estado;Homicídio Doloso;5.888;14.216.887;41,4
+2000;Estado;Homicídio Doloso;6.287;14.403.603;43,6
+2001;Estado;Homicídio Doloso;6.163;14.547.985;42,4
+2002;Estado;Homicídio Doloso;6.885;14.695.180;46,9
+2003;Estado;Homicídio Doloso;6.624;14.845.299;44,6
+2004;Estado;Homicídio Doloso;6.438;14.998.471;42,9
+2005;Estado;Homicídio Doloso;6.620;15.154.831;43,7
+2006;Estado;Homicídio Doloso;6.323;15.314.527;41,3
+2007;Estado;Homicídio Doloso;6.133;15.477.710;39,6
+2008;Estado;Homicídio Doloso;5.717;15.644.548;36,5
+2009;Estado;Homicídio Doloso;5.793;15.815.217;36,6
+2010;Estado;Homicídio Doloso;4.767;15.989.929;29,8
+2011;Estado;Homicídio Doloso;4.279;16.112.678;26,6
+2012;Estado;Homicídio Doloso;4.081;16.231.365;25,1
+2013;Estado;Homicídio Doloso;4.745;16.369.178;29,0
+2014;Estado;Homicídio Doloso;4.942;16.461.173;30,0
+2015;Estado;Homicídio Doloso;4.200;16.550.024;25,4
+2016;Estado;Homicídio Doloso;5.042;16.635.996;30,3
+2017;Estado;Homicídio Doloso;5.322;16.718.956;31,8
+2018;Estado;Homicídio Doloso;4.950;17.159.960;28,8
+2019;Estado;Homicídio Doloso;4.004;17.264.943;23,2
+2020;Estado;Homicídio Doloso;3.544;17.366.189;20,4
+2021;Estado;Homicídio Doloso;3.253;17.463.349;18,6
+2022;Estado;Homicídio Doloso;3.059;17.561.373;17,4
+1998;Estado;Morte por Intervencao do Agente do Estado;397;14.032.591;2,8
+1999;Estado;Morte por Intervencao do Agente do Estado;289;14.216.887;2,0
+2000;Estado;Morte por Intervencao do Agente do Estado;427;14.403.603;3,0
+2001;Estado;Morte por Intervencao do Agente do Estado;592;14.547.985;4,1
+2002;Estado;Morte por Intervencao do Agente do Estado;900;14.695.180;6,1
+2003;Estado;Morte por Intervencao do Agente do Estado;1.195;14.845.299;8,0
+2004;Estado;Morte por Intervencao do Agente do Estado;983;14.998.471;6,6
+2005;Estado;Morte por Intervencao do Agente do Estado;1.098;15.154.831;7,2
+2006;Estado;Morte por Intervencao do Agente do Estado;1.063;15.314.527;6,9
+2007;Estado;Morte por Intervencao do Agente do Estado;1.330;15.477.710;8,6
+2008;Estado;Morte por Intervencao do Agente do Estado;1.137;15.644.548;7,3
+2009;Estado;Morte por Intervencao do Agente do Estado;1.048;15.815.217;6,6
+2010;Estado;Morte por Intervencao do Agente do Estado;855;15.989.929;5,3
+2011;Estado;Morte por Intervencao do Agente do Estado;523;16.112.678;3,2
+2012;Estado;Morte por Intervencao do Agente do Estado;419;16.231.365;2,6
+2013;Estado;Morte por Intervencao do Agente do Estado;416;16.369.178;2,5
+2014;Estado;Morte por Intervencao do Agente do Estado;584;16.461.173;3,5
+2015;Estado;Morte por Intervencao do Agente do Estado;645;16.550.024;3,9
+2016;Estado;Morte por Intervencao do Agente do Estado;920;16.635.996;5,5
+2017;Estado;Morte por Intervencao do Agente do Estado;1.118;16.718.956;6,7
+2018;Estado;Morte por Intervencao do Agente do Estado;1.534;17.159.960;8,9
+2019;Estado;Morte por Intervencao do Agente do Estado;1.814;17.264.943;10,5
+2020;Estado;Morte por Intervencao do Agente do Estado;1.245;17.366.189;7,2
+2021;Estado;Morte por Intervencao do Agente do Estado;1.356;17.463.349;7,8
+2022;Estado;Morte por Intervencao do Agente do Estado;1.330;17.561.373;7,6
+1991;Capital;Letalidade Violenta;3.571;5.480.768;65,2
+1992;Capital;Letalidade Violenta;3.701;5.492.909;67,4
+1993;Capital;Letalidade Violenta;3.874;5.507.300;70,3
+1994;Capital;Letalidade Violenta;4.192;5.521.492;75,9
+1995;Capital;Letalidade Violenta;3.831;5.535.481;69,2
+1996;Capital;Letalidade Violenta;3.156;5.551.538;56,8
+1997;Capital;Letalidade Violenta;2.906;5.612.944;51,8
+1998;Capital;Letalidade Violenta;2.185;5.687.440;38,4
+1999;Capital;Letalidade Violenta;2.659;5.762.826;46,1
+2000;Capital;Letalidade Violenta;3.147;5.857.904;53,7
+2001;Capital;Letalidade Violenta;2.984;5.902.592;50,6
+2002;Capital;Letalidade Violenta;3.465;5.947.622;58,3
+2003;Capital;Letalidade Violenta;3.495;5.992.995;58,3
+2004;Capital;Letalidade Violenta;3.456;6.038.714;57,2
+2005;Capital;Letalidade Violenta;3.231;6.084.782;53,1
+2006;Capital;Letalidade Violenta;3.286;6.131.201;53,6
+2007;Capital;Letalidade Violenta;3.354;6.177.974;54,3
+2008;Capital;Letalidade Violenta;2.877;6.225.104;46,2
+2009;Capital;Letalidade Violenta;2.902;6.272.594;46,3
+2010;Capital;Letalidade Violenta;2.205;6.320.446;34,9
+2011;Capital;Letalidade Violenta;1.783;6.355.949;28,1
+2012;Capital;Letalidade Violenta;1.557;6.390.290;24,4
+2013;Capital;Letalidade Violenta;1.613;6.429.922;25,1
+2014;Capital;Letalidade Violenta;1.552;6.453.682;24,0
+2015;Capital;Letalidade Violenta;1.562;6.476.631;24,1
+2016;Capital;Letalidade Violenta;1.909;6.498.837;29,4
+2017;Capital;Letalidade Violenta;2.131;6.520.266;32,7
+2018;Capital;Letalidade Violenta;1.987;6.688.927;29,7
+2019;Capital;Letalidade Violenta;1.913;6.718.903;28,5
+2020;Capital;Letalidade Violenta;1.420;6.747.815;21,0
+2021;Capital;Letalidade Violenta;1.306;6.775.561;19,3
+2022;Capital;Letalidade Violenta;1.319;6.803.421;19,4
+1991;Capital;Homicídio Doloso;3.466;5.480.768;63,2
+1992;Capital;Homicídio Doloso;3.547;5.492.909;64,6
+1993;Capital;Homicídio Doloso;3.733;5.507.300;67,8
+1994;Capital;Homicídio Doloso;4.081;5.521.492;73,9
+1995;Capital;Homicídio Doloso;3.744;5.535.481;67,6
+1996;Capital;Homicídio Doloso;3.081;5.551.538;55,5
+1997;Capital;Homicídio Doloso;2.852;5.612.944;50,8
+1998;Capital;Homicídio Doloso;2.134;5.687.440;37,5
+1999;Capital;Homicídio Doloso;2.361;5.762.826;41,0
+2000;Capital;Homicídio Doloso;2.737;5.857.904;46,7
+2001;Capital;Homicídio Doloso;2.437;5.902.592;41,3
+2002;Capital;Homicídio Doloso;2.718;5.947.622;45,7
+2003;Capital;Homicídio Doloso;2.574;5.992.995;43,0
+2004;Capital;Homicídio Doloso;2.653;6.038.714;43,9
+2005;Capital;Homicídio Doloso;2.406;6.084.782;39,5
+2006;Capital;Homicídio Doloso;2.465;6.131.201;40,2
+2007;Capital;Homicídio Doloso;2.336;6.177.974;37,8
+2008;Capital;Homicídio Doloso;2.069;6.225.104;33,2
+2009;Capital;Homicídio Doloso;2.155;6.272.594;34,4
+2010;Capital;Homicídio Doloso;1.628;6.320.446;25,8
+2011;Capital;Homicídio Doloso;1.417;6.355.949;22,3
+2012;Capital;Homicídio Doloso;1.206;6.390.290;18,9
+2013;Capital;Homicídio Doloso;1.311;6.429.922;20,4
+2014;Capital;Homicídio Doloso;1.237;6.453.682;19,2
+2015;Capital;Homicídio Doloso;1.200;6.476.631;18,5
+2016;Capital;Homicídio Doloso;1.330;6.498.837;20,5
+2017;Capital;Homicídio Doloso;1.483;6.520.266;22,7
+2018;Capital;Homicídio Doloso;1.338;6.688.927;20,0
+2019;Capital;Homicídio Doloso;1.134;6.718.903;16,9
+2020;Capital;Homicídio Doloso;957;6.747.815;14,2
+2021;Capital;Homicídio Doloso;792;6.775.561;11,7
+2022;Capital;Homicídio Doloso;827;6.803.421;12,2
+2000;Capital;Morte por Intervencao do Agente do Estado;278;5.857.904;4,7
+2001;Capital;Morte por Intervencao do Agente do Estado;381;5.902.592;6,5
+2002;Capital;Morte por Intervencao do Agente do Estado;615;5.947.622;10,3
+2003;Capital;Morte por Intervencao do Agente do Estado;798;5.992.995;13,3
+2004;Capital;Morte por Intervencao do Agente do Estado;676;6.038.714;11,2
+2005;Capital;Morte por Intervencao do Agente do Estado;707;6.084.782;11,6
+2006;Capital;Morte por Intervencao do Agente do Estado;673;6.131.201;11,0
+2007;Capital;Morte por Intervencao do Agente do Estado;902;6.177.974;14,6
+2008;Capital;Morte por Intervencao do Agente do Estado;688;6.225.104;11,1
+2009;Capital;Morte por Intervencao do Agente do Estado;643;6.272.594;10,3
+2010;Capital;Morte por Intervencao do Agente do Estado;485;6.320.446;7,7
+2011;Capital;Morte por Intervencao do Agente do Estado;283;6.355.949;4,5
+2012;Capital;Morte por Intervencao do Agente do Estado;283;6.390.290;4,4
+2013;Capital;Morte por Intervencao do Agente do Estado;224;6.429.922;3,5
+2014;Capital;Morte por Intervencao do Agente do Estado;247;6.453.682;3,8
+2015;Capital;Morte por Intervencao do Agente do Estado;307;6.476.631;4,7
+2016;Capital;Morte por Intervencao do Agente do Estado;459;6.498.837;7,1
+2017;Capital;Morte por Intervencao do Agente do Estado;522;6.520.266;8,0
+2018;Capital;Morte por Intervencao do Agente do Estado;558;6.688.927;8,3
+2019;Capital;Morte por Intervencao do Agente do Estado;726;6.718.903;10,8
+2020;Capital;Morte por Intervencao do Agente do Estado;415;6.747.815;6,2
+2021;Capital;Morte por Intervencao do Agente do Estado;458;6.775.561;6,8
+2022;Capital;Morte por Intervencao do Agente do Estado;444;6.803.421;6,5
+2000;Baixada Fluminense;Letalidade Violenta;1.915;3.382.829;56,6
+2001;Baixada Fluminense;Letalidade Violenta;2.022;3.408.272;59,3
+2002;Baixada Fluminense;Letalidade Violenta;2.219;3.434.027;64,6
+2003;Baixada Fluminense;Letalidade Violenta;2.437;3.460.092;70,4
+2004;Baixada Fluminense;Letalidade Violenta;2.169;3.486.475;62,2
+2005;Baixada Fluminense;Letalidade Violenta;2.300;3.513.179;65,5
+2006;Baixada Fluminense;Letalidade Violenta;2.104;3.540.216;59,4
+2007;Baixada Fluminense;Letalidade Violenta;2.091;3.567.588;58,6
+2008;Baixada Fluminense;Letalidade Violenta;2.135;3.595.300;59,4
+2009;Baixada Fluminense;Letalidade Violenta;2.112;3.623.358;58,3
+2010;Baixada Fluminense;Letalidade Violenta;1.776;3.651.771;48,6
+2011;Baixada Fluminense;Letalidade Violenta;1.617;3.673.365;44,0
+2012;Baixada Fluminense;Letalidade Violenta;1.489;3.694.249;40,3
+2013;Baixada Fluminense;Letalidade Violenta;1.881;3.718.369;50,6
+2014;Baixada Fluminense;Letalidade Violenta;2.218;3.733.142;59,4
+2015;Baixada Fluminense;Letalidade Violenta;1.702;3.747.408;45,4
+2016;Baixada Fluminense;Letalidade Violenta;2.100;3.761.477;55,8
+2017;Baixada Fluminense;Letalidade Violenta;2.301;3.774.693;61,0
+2018;Baixada Fluminense;Letalidade Violenta;2.147;3.872.615;55,4
+2019;Baixada Fluminense;Letalidade Violenta;1.777;3.890.887;45,7
+2020;Baixada Fluminense;Letalidade Violenta;1.406;3.908.510;36,0
+2021;Baixada Fluminense;Letalidade Violenta;1.398;3.925.424;35,6
+2022;Baixada Fluminense;Letalidade Violenta;1.415;3.942.439;35,9
+2000;Baixada Fluminense;Homicídio Doloso;1.757;3.382.829;51,9
+2001;Baixada Fluminense;Homicídio Doloso;1.820;3.408.272;53,4
+2002;Baixada Fluminense;Homicídio Doloso;2.002;3.434.027;58,3
+2003;Baixada Fluminense;Homicídio Doloso;2.134;3.460.092;61,7
+2004;Baixada Fluminense;Homicídio Doloso;1.948;3.486.475;55,9
+2005;Baixada Fluminense;Homicídio Doloso;2.005;3.513.179;57,1
+2006;Baixada Fluminense;Homicídio Doloso;1.824;3.540.216;51,5
+2007;Baixada Fluminense;Homicídio Doloso;1.764;3.567.588;49,4
+2008;Baixada Fluminense;Homicídio Doloso;1.787;3.595.300;49,7
+2009;Baixada Fluminense;Homicídio Doloso;1.781;3.623.358;49,2
+2010;Baixada Fluminense;Homicídio Doloso;1.463;3.651.771;40,1
+2011;Baixada Fluminense;Homicídio Doloso;1.439;3.673.365;39,2
+2012;Baixada Fluminense;Homicídio Doloso;1.381;3.694.249;37,4
+2013;Baixada Fluminense;Homicídio Doloso;1.724;3.718.369;46,4
+2014;Baixada Fluminense;Homicídio Doloso;1.968;3.733.142;52,7
+2015;Baixada Fluminense;Homicídio Doloso;1.507;3.747.408;40,2
+2016;Baixada Fluminense;Homicídio Doloso;1.791;3.761.477;47,6
+2017;Baixada Fluminense;Homicídio Doloso;1.874;3.774.693;49,6
+2018;Baixada Fluminense;Homicídio Doloso;1.532;3.872.615;39,6
+2019;Baixada Fluminense;Homicídio Doloso;1.205;3.890.887;31,0
+2020;Baixada Fluminense;Homicídio Doloso;965;3.908.510;24,7
+2021;Baixada Fluminense;Homicídio Doloso;927;3.925.424;23,6
+2022;Baixada Fluminense;Homicídio Doloso;915;3.942.439;23,2
+2000;Baixada Fluminense;Morte por Intervencao do Agente do Estado;85;3.382.829;2,5
+2001;Baixada Fluminense;Morte por Intervencao do Agente do Estado;133;3.408.272;3,9
+2002;Baixada Fluminense;Morte por Intervencao do Agente do Estado;163;3.434.027;4,7
+2003;Baixada Fluminense;Morte por Intervencao do Agente do Estado;256;3.460.092;7,4
+2004;Baixada Fluminense;Morte por Intervencao do Agente do Estado;176;3.486.475;5,0
+2005;Baixada Fluminense;Morte por Intervencao do Agente do Estado;217;3.513.179;6,2
+2006;Baixada Fluminense;Morte por Intervencao do Agente do Estado;233;3.540.216;6,6
+2007;Baixada Fluminense;Morte por Intervencao do Agente do Estado;283;3.567.588;7,9
+2008;Baixada Fluminense;Morte por Intervencao do Agente do Estado;285;3.595.300;7,9
+2009;Baixada Fluminense;Morte por Intervencao do Agente do Estado;274;3.623.358;7,6
+2010;Baixada Fluminense;Morte por Intervencao do Agente do Estado;260;3.651.771;7,1
+2011;Baixada Fluminense;Morte por Intervencao do Agente do Estado;148;3.673.365;4,0
+2012;Baixada Fluminense;Morte por Intervencao do Agente do Estado;65;3.694.249;1,8
+2013;Baixada Fluminense;Morte por Intervencao do Agente do Estado;108;3.718.369;2,9
+2014;Baixada Fluminense;Morte por Intervencao do Agente do Estado;197;3.733.142;5,3
+2015;Baixada Fluminense;Morte por Intervencao do Agente do Estado;153;3.747.408;4,1
+2016;Baixada Fluminense;Morte por Intervencao do Agente do Estado;210;3.761.477;5,6
+2017;Baixada Fluminense;Morte por Intervencao do Agente do Estado;343;3.774.693;9,1
+2018;Baixada Fluminense;Morte por Intervencao do Agente do Estado;545;3.872.615;14,1
+2019;Baixada Fluminense;Morte por Intervencao do Agente do Estado;528;3.890.887;13,6
+2020;Baixada Fluminense;Morte por Intervencao do Agente do Estado;404;3.908.510;10,3
+2021;Baixada Fluminense;Morte por Intervencao do Agente do Estado;440;3.925.424;11,2
+2022;Baixada Fluminense;Morte por Intervencao do Agente do Estado;476;3.942.439;12,1
+2000;Grande Niteroi;Letalidade Violenta;727;1.427.307;50,9
+2001;Grande Niteroi;Letalidade Violenta;713;1.444.345;49,4
+2002;Grande Niteroi;Letalidade Violenta;976;1.461.727;66,8
+2003;Grande Niteroi;Letalidade Violenta;773;1.479.466;52,2
+2004;Grande Niteroi;Letalidade Violenta;681;1.497.571;45,5
+2005;Grande Niteroi;Letalidade Violenta;908;1.516.060;59,9
+2006;Grande Niteroi;Letalidade Violenta;795;1.534.944;51,8
+2007;Grande Niteroi;Letalidade Violenta;743;1.554.240;47,8
+2008;Grande Niteroi;Letalidade Violenta;729;1.573.961;46,3
+2009;Grande Niteroi;Letalidade Violenta;718;1.594.126;45,0
+2010;Grande Niteroi;Letalidade Violenta;682;1.614.751;42,2
+2011;Grande Niteroi;Letalidade Violenta;503;1.629.140;30,9
+2012;Grande Niteroi;Letalidade Violenta;480;1.643.056;29,2
+2013;Grande Niteroi;Letalidade Violenta;613;1.659.259;36,9
+2014;Grande Niteroi;Letalidade Violenta;589;1.670.484;35,3
+2015;Grande Niteroi;Letalidade Violenta;587;1.681.326;34,9
+2016;Grande Niteroi;Letalidade Violenta;678;1.691.817;40,1
+2017;Grande Niteroi;Letalidade Violenta;764;1.701.862;44,9
+2018;Grande Niteroi;Letalidade Violenta;764;1.747.262;43,7
+2019;Grande Niteroi;Letalidade Violenta;800;1.759.630;45,5
+2020;Grande Niteroi;Letalidade Violenta;651;1.771.558;36,7
+2021;Grande Niteroi;Letalidade Violenta;589;1.783.006;33,0
+2022;Grande Niteroi;Letalidade Violenta;444;1.794.560;24,7
+2000;Grande Niteroi;Homicídio Doloso;661;1.427.307;46,3
+2001;Grande Niteroi;Homicídio Doloso;657;1.444.345;45,5
+2002;Grande Niteroi;Homicídio Doloso;884;1.461.727;60,5
+2003;Grande Niteroi;Homicídio Doloso;650;1.479.466;43,9
+2004;Grande Niteroi;Homicídio Doloso;593;1.497.571;39,6
+2005;Grande Niteroi;Homicídio Doloso;761;1.516.060;50,2
+2006;Grande Niteroi;Homicídio Doloso;679;1.534.944;44,2
+2007;Grande Niteroi;Homicídio Doloso;631;1.554.240;40,6
+2008;Grande Niteroi;Homicídio Doloso;597;1.573.961;37,9
+2009;Grande Niteroi;Homicídio Doloso;603;1.594.126;37,8
+2010;Grande Niteroi;Homicídio Doloso;580;1.614.751;35,9
+2011;Grande Niteroi;Homicídio Doloso;440;1.629.140;27,0
+2012;Grande Niteroi;Homicídio Doloso;407;1.643.056;24,8
+2013;Grande Niteroi;Homicídio Doloso;537;1.659.259;32,4
+2014;Grande Niteroi;Homicídio Doloso;471;1.670.484;28,2
+2015;Grande Niteroi;Homicídio Doloso;414;1.681.326;24,6
+2016;Grande Niteroi;Homicídio Doloso;477;1.691.817;28,2
+2017;Grande Niteroi;Homicídio Doloso;560;1.701.862;32,9
+2018;Grande Niteroi;Homicídio Doloso;503;1.747.262;28,8
+2019;Grande Niteroi;Homicídio Doloso;425;1.759.630;24,2
+2020;Grande Niteroi;Homicídio Doloso;387;1.771.558;21,8
+2021;Grande Niteroi;Homicídio Doloso;289;1.783.006;16,2
+2022;Grande Niteroi;Homicídio Doloso;225;1.794.560;12,5
+2000;Grande Niteroi;Morte por Intervencao do Agente do Estado;40;1.427.307;2,8
+2001;Grande Niteroi;Morte por Intervencao do Agente do Estado;32;1.444.345;2,2
+2002;Grande Niteroi;Morte por Intervencao do Agente do Estado;69;1.461.727;4,7
+2003;Grande Niteroi;Morte por Intervencao do Agente do Estado;103;1.479.466;7,0
+2004;Grande Niteroi;Morte por Intervencao do Agente do Estado;76;1.497.571;5,1
+2005;Grande Niteroi;Morte por Intervencao do Agente do Estado;134;1.516.060;8,8
+2006;Grande Niteroi;Morte por Intervencao do Agente do Estado;93;1.534.944;6,1
+2007;Grande Niteroi;Morte por Intervencao do Agente do Estado;87;1.554.240;5,6
+2008;Grande Niteroi;Morte por Intervencao do Agente do Estado;103;1.573.961;6,5
+2009;Grande Niteroi;Morte por Intervencao do Agente do Estado;73;1.594.126;4,6
+2010;Grande Niteroi;Morte por Intervencao do Agente do Estado;77;1.614.751;4,8
+2011;Grande Niteroi;Morte por Intervencao do Agente do Estado;49;1.629.140;3,0
+2012;Grande Niteroi;Morte por Intervencao do Agente do Estado;56;1.643.056;3,4
+2013;Grande Niteroi;Morte por Intervencao do Agente do Estado;64;1.659.259;3,9
+2014;Grande Niteroi;Morte por Intervencao do Agente do Estado;95;1.670.484;5,7
+2015;Grande Niteroi;Morte por Intervencao do Agente do Estado;137;1.681.326;8,1
+2016;Grande Niteroi;Morte por Intervencao do Agente do Estado;171;1.691.817;10,1
+2017;Grande Niteroi;Morte por Intervencao do Agente do Estado;158;1.701.862;9,3
+2018;Grande Niteroi;Morte por Intervencao do Agente do Estado;241;1.747.262;13,8
+2019;Grande Niteroi;Morte por Intervencao do Agente do Estado;351;1.759.630;19,9
+2020;Grande Niteroi;Morte por Intervencao do Agente do Estado;250;1.771.558;14,1
+2021;Grande Niteroi;Morte por Intervencao do Agente do Estado;279;1.783.006;15,6
+2022;Grande Niteroi;Morte por Intervencao do Agente do Estado;210;1.794.560;11,7
+2000;Interior;Letalidade Violenta;1.204;3.735.563;32,2
+2001;Interior;Letalidade Violenta;1.364;3.792.776;36,0
+2002;Interior;Letalidade Violenta;1.383;3.851.804;35,9
+2003;Interior;Letalidade Violenta;1.349;3.912.746;34,5
+2004;Interior;Letalidade Violenta;1.339;3.975.711;33,7
+2005;Interior;Letalidade Violenta;1.548;4.040.810;38,3
+2006;Interior;Letalidade Violenta;1.464;4.108.166;35,6
+2007;Interior;Letalidade Violenta;1.511;4.177.908;36,2
+2008;Interior;Letalidade Violenta;1.393;4.250.183;32,8
+2009;Interior;Letalidade Violenta;1.374;4.325.139;31,8
+2010;Interior;Letalidade Violenta;1.165;4.402.961;26,5
+2011;Interior;Letalidade Violenta;1.057;4.454.224;23,7
+2012;Interior;Letalidade Violenta;1.140;4.503.770;25,3
+2013;Interior;Letalidade Violenta;1.241;4.561.628;27,2
+2014;Interior;Letalidade Violenta;1.360;4.603.865;29,5
+2015;Interior;Letalidade Violenta;1.159;4.644.659;25,0
+2016;Interior;Letalidade Violenta;1.575;4.683.865;33,6
+2017;Interior;Letalidade Violenta;1.553;4.722.135;32,9
+2018;Interior;Letalidade Violenta;1.816;4.851.156;37,4
+2019;Interior;Letalidade Violenta;1.490;4.895.523;30,4
+2020;Interior;Letalidade Violenta;1.430;4.938.306;29,0
+2021;Interior;Letalidade Violenta;1.469;4.979.358;29,5
+2022;Interior;Letalidade Violenta;1.307;5.020.953;26,0
+2000;Interior;Homicídio Doloso;1.132;3.735.563;30,3
+2001;Interior;Homicídio Doloso;1.249;3.792.776;32,9
+2002;Interior;Homicídio Doloso;1.281;3.851.804;33,3
+2003;Interior;Homicídio Doloso;1.266;3.912.746;32,4
+2004;Interior;Homicídio Doloso;1.244;3.975.711;31,3
+2005;Interior;Homicídio Doloso;1.448;4.040.810;35,8
+2006;Interior;Homicídio Doloso;1.355;4.108.166;33,0
+2007;Interior;Homicídio Doloso;1.402;4.177.908;33,6
+2008;Interior;Homicídio Doloso;1.264;4.250.183;29,7
+2009;Interior;Homicídio Doloso;1.254;4.325.139;29,0
+2010;Interior;Homicídio Doloso;1.096;4.402.961;24,9
+2011;Interior;Homicídio Doloso;983;4.454.224;22,1
+2012;Interior;Homicídio Doloso;1.087;4.503.770;24,1
+2013;Interior;Homicídio Doloso;1.173;4.561.628;25,7
+2014;Interior;Homicídio Doloso;1.266;4.603.865;27,5
+2015;Interior;Homicídio Doloso;1.079;4.644.659;23,2
+2016;Interior;Homicídio Doloso;1.444;4.683.865;30,8
+2017;Interior;Homicídio Doloso;1.405;4.722.135;29,8
+2018;Interior;Homicídio Doloso;1.577;4.851.156;32,5
+2019;Interior;Homicídio Doloso;1.240;4.895.523;25,3
+2020;Interior;Homicídio Doloso;1.235;4.938.306;25,0
+2021;Interior;Homicídio Doloso;1.245;4.979.358;25,0
+2022;Interior;Homicídio Doloso;1.092;5.020.953;21,7
+2000;Interior;Morte por Intervencao do Agente do Estado;24;3.735.563;0,6
+2001;Interior;Morte por Intervencao do Agente do Estado;46;3.792.776;1,2
+2002;Interior;Morte por Intervencao do Agente do Estado;53;3.851.804;1,4
+2003;Interior;Morte por Intervencao do Agente do Estado;38;3.912.746;1,0
+2004;Interior;Morte por Intervencao do Agente do Estado;55;3.975.711;1,4
+2005;Interior;Morte por Intervencao do Agente do Estado;40;4.040.810;1,0
+2006;Interior;Morte por Intervencao do Agente do Estado;64;4.108.166;1,6
+2007;Interior;Morte por Intervencao do Agente do Estado;58;4.177.908;1,4
+2008;Interior;Morte por Intervencao do Agente do Estado;61;4.250.183;1,4
+2009;Interior;Morte por Intervencao do Agente do Estado;58;4.325.139;1,3
+2010;Interior;Morte por Intervencao do Agente do Estado;33;4.402.961;0,7
+2011;Interior;Morte por Intervencao do Agente do Estado;43;4.454.224;1,0
+2012;Interior;Morte por Intervencao do Agente do Estado;15;4.503.770;0,3
+2013;Interior;Morte por Intervencao do Agente do Estado;20;4.561.628;0,4
+2014;Interior;Morte por Intervencao do Agente do Estado;45;4.603.865;1,0
+2015;Interior;Morte por Intervencao do Agente do Estado;48;4.644.659;1,0
+2016;Interior;Morte por Intervencao do Agente do Estado;80;4.683.865;1,7
+2017;Interior;Morte por Intervencao do Agente do Estado;95;4.722.135;2,0
+2018;Interior;Morte por Intervencao do Agente do Estado;190;4.851.156;3,9
+2019;Interior;Morte por Intervencao do Agente do Estado;209;4.895.523;4,3
+2020;Interior;Morte por Intervencao do Agente do Estado;176;4.938.306;3,6
+2021;Interior;Morte por Intervencao do Agente do Estado;179;4.979.358;3,6
+2022;Interior;Morte por Intervencao do Agente do Estado;200;5.020.953;4,0
